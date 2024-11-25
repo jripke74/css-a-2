@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
 }
 
-h1 {
+#assignment-instruction {
   color: brown;
   font-family: sans-serif;
 }
@@ -16,7 +16,12 @@ code {
   color: green;
 }
 
-ol li {
+li + li {
+  background-color: black;
+  color: white;
+}
+
+ol > li {
   background-color: black;
   color: white;
 }
