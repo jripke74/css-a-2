@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: brown;
+  font-family: sans-serif;
+}
+
+code {
+  color: red;
+  font-family: monospace;
+}
+
+.second-li code {
+  color: green;
+}
+
+ol li {
+  background-color: black;
+  color: white;
+}
